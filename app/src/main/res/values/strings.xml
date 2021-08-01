@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="rio_de_janeiro">RIO DE JANEIRO</string>
+    <string name="beijing">BEIJING</string>
+    <string name="los_angeles">LOS ANGELES</string>
+    <string name="hourly_weather_forecast_title">Next hours</string>
+    <string name="daily_weather_forecast_title">Next 8 days</string>
+    <string name="network_error_message">"Network error: Please check your internet connection."</string>
+    <string name="unknown_failure_message">"Something went wrong. Try again"</string>
+</resources>
